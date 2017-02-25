@@ -1,0 +1,36 @@
+C:\Workspace\Lambda\bin;C:\Programme\eclipse\configuration\org.eclipse.osgi\bundles\328\1\.cp\lib\scala-library.jar;C:\Programme\eclipse\configuration\org.eclipse.osgi\bundles\328\1\.cp\lib\scala-dbc.jar;C:\Programme\eclipse\configuration\org.eclipse.osgi\bundles\328\1\.cp\lib\scala-swing.jar;C:\Programme\Java\jre6\lib\resources.jar;C:\Programme\Java\jre6\lib\rt.jar;C:\Programme\Java\jre6\lib\jsse.jar;C:\Programme\Java\jre6\lib\jce.jar;C:\Programme\Java\jre6\lib\charsets.jar;C:\Programme\Java\jre6\lib\ext\dnsns.jar;C:\Programme\Java\jre6\lib\ext\localedata.jar;C:\Programme\Java\jre6\lib\ext\QTJava.zip;C:\Programme\Java\jre6\lib\ext\sunjce_provider.jar;C:\Programme\Java\jre6\lib\ext\sunmscapi.jar;C:\Programme\Java\jre6\lib\ext\sunpkcs11.jar
+-------
+C:\Workspace\Lambda\src\Main.scala -> C:\Workspace\Lambda\src\Main.scala
+C:\Workspace\Lambda\src\Main.scala -> C:\Workspace\Lambda\src\Lambda.scala
+C:\Workspace\Lambda\src\Lambda.scala -> C:\Workspace\Lambda\src\Lambda.scala
+-------
+C:\Workspace\Lambda\src\Main.scala -> C:\Workspace\Lambda\bin\Main$Number$2.class
+C:\Workspace\Lambda\src\Main.scala -> C:\Workspace\Lambda\bin\Main$BinOp$2.class
+C:\Workspace\Lambda\src\Main.scala -> C:\Workspace\Lambda\bin\Main$$anonfun$1.class
+C:\Workspace\Lambda\src\Main.scala -> C:\Workspace\Lambda\bin\Main$VNumber$2.class
+C:\Workspace\Lambda\src\Main.scala -> C:\Workspace\Lambda\bin\Main$VNumber$3$.class
+C:\Workspace\Lambda\src\Main.scala -> C:\Workspace\Lambda\bin\Main$Number$3$.class
+C:\Workspace\Lambda\src\Main.scala -> C:\Workspace\Lambda\bin\Main.class
+C:\Workspace\Lambda\src\Main.scala -> C:\Workspace\Lambda\bin\Main$BinOp$3$.class
+C:\Workspace\Lambda\src\Main.scala -> C:\Workspace\Lambda\bin\Main$.class
+C:\Workspace\Lambda\src\Lambda.scala -> C:\Workspace\Lambda\bin\Calculus$Environment$.class
+C:\Workspace\Lambda\src\Lambda.scala -> C:\Workspace\Lambda\bin\Calculus$Variable.class
+C:\Workspace\Lambda\src\Lambda.scala -> C:\Workspace\Lambda\bin\Calculus$Expression.class
+C:\Workspace\Lambda\src\Lambda.scala -> C:\Workspace\Lambda\bin\Calculus$Apply$.class
+C:\Workspace\Lambda\src\Lambda.scala -> C:\Workspace\Lambda\bin\Calculus$Apply.class
+C:\Workspace\Lambda\src\Lambda.scala -> C:\Workspace\Lambda\bin\Calculus.class
+C:\Workspace\Lambda\src\Lambda.scala -> C:\Workspace\Lambda\bin\Calculus$Environment.class
+C:\Workspace\Lambda\src\Lambda.scala -> C:\Workspace\Lambda\bin\Calculus$VLambda.class
+C:\Workspace\Lambda\src\Lambda.scala -> C:\Workspace\Lambda\bin\Calculus$Environment$$anonfun$restrict$1.class
+C:\Workspace\Lambda\src\Lambda.scala -> C:\Workspace\Lambda\bin\Calculus$Lambda$.class
+C:\Workspace\Lambda\src\Lambda.scala -> C:\Workspace\Lambda\bin\Calculus$CellValue$.class
+C:\Workspace\Lambda\src\Lambda.scala -> C:\Workspace\Lambda\bin\Calculus$Value.class
+C:\Workspace\Lambda\src\Lambda.scala -> C:\Workspace\Lambda\bin\Calculus$Lambda.class
+C:\Workspace\Lambda\src\Lambda.scala -> C:\Workspace\Lambda\bin\Calculus$CellValue.class
+C:\Workspace\Lambda\src\Lambda.scala -> C:\Workspace\Lambda\bin\Calculus$Reference.class
+C:\Workspace\Lambda\src\Lambda.scala -> C:\Workspace\Lambda\bin\Calculus$Cell.class
+C:\Workspace\Lambda\src\Lambda.scala -> C:\Workspace\Lambda\bin\Calculus$.class
+C:\Workspace\Lambda\src\Lambda.scala -> C:\Workspace\Lambda\bin\Calculus$CellClosure.class
+C:\Workspace\Lambda\src\Lambda.scala -> C:\Workspace\Lambda\bin\Calculus$Reference$.class
+C:\Workspace\Lambda\src\Lambda.scala -> C:\Workspace\Lambda\bin\Calculus$CellClosure$.class
+C:\Workspace\Lambda\src\Lambda.scala -> C:\Workspace\Lambda\bin\Calculus$VLambda$.class
